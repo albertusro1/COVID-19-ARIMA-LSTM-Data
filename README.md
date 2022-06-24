@@ -1,5 +1,5 @@
 # Pengantar
-Dataset ini digunakan untuk penelitian akhir / skripsi oleh mahasiswa Program Studi S1 Teknik Informatika dan dibantu oleh dosen pembimbing 1 dan 2.
+Dataset ini digunakan untuk penelitian akhir / skripsi oleh mahasiswa Program Studi S1 Teknik Informatika Fakultas Ilmu Komputer Universitas Brawijaya dan dibantu oleh dosen pembimbing 1 dan 2.
 - Dosen Pembimbing 1: Dr. Lailil Muflikhah, S.Kom., M.Sc.
 - Dosen Pembimbing 2: Imam Cholissodin, S.Si., M.Kom.
 
